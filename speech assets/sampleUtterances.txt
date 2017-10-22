@@ -1,0 +1,28 @@
+MedicalSymptomsDataIntent {Disease}
+MedicalSymptomsDataIntent tell me about {Disease}
+MedicalSymptomsDataIntent talk about {Disease}
+MedicalSymptomsBlankSlotIntent tell about
+MedicalSymptomsBlankSlotIntent tell me about
+MedicalSymptomsBlankSlotIntent talk about
+MedicalSymptomsBlankSlotIntent talk about symptoms of
+MedicalSymptomsBlankSlotIntent tell me symptoms of
+MedicalSymptomsBlankSlotIntent talk about treatment of
+MedicalSymptomsBlankSlotIntent tell me treatment of
+MedicalSymptomsDataIntent tell me symptoms of {Disease}
+MedicalSymptomsDataIntent tell me the symptoms of {Disease}
+MedicalSymptomsDataIntent tell me the treatment of {Disease}
+MedicalSymptomsDataIntent tell me some details about {Disease}
+AMAZON.HelpIntent tell me those type of cancer again
+AMAZON.HelpIntent tell me about types of cancer
+AMAZON.HelpIntent tell me those type of cancers
+AMAZON.HelpIntent tell me various kind of cancer
+AMAZON.HelpIntent tell me various kind of cancers
+AMAZON.HelpIntent tell me types of cancer
+AMAZON.HelpIntent tell me the names of cancer types
+AMAZON.HelpIntent talk about various kind of cancers
+AMAZON.HelpIntent talk about different type of cancer
+AMAZON.HelpIntent talk about different types of cancers
+AMAZON.HelpIntent talk about various types of cancers
+AMAZON.HelpIntent tell me the types of cancers
+AMAZON.HelpIntent tell me the names of types of cancers
+AMAZON.HelpIntent what are the types of cancers
